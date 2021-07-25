@@ -26,6 +26,7 @@
 | 팀원 | 앱 기획 및 개발 | [김진원](https://github.com/hdev1004) | 
 | 팀원 | 앱 기획 및 개발 | [이보라](https://github.com/aroob6) | 
 
+# 📌 APP 전체 Wireframe
 
 # 📌 scenario
 > **로그인**
@@ -62,8 +63,6 @@
 
 > _시나리오에 따른 시안 변천사 과정 (공지사항)_
 ![image](https://user-images.githubusercontent.com/73240332/126889981-bfe3678a-8e1a-4fdd-bf89-2fb43c0d5f2e.png)
-
-# 📌 APP 전체 Wireframe
 
 # 📌 Stack
 
