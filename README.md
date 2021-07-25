@@ -1,7 +1,7 @@
 # 📌 Flutter_EveryThingJeon_Project
 > 교내 모바일 학생증 제작 Project
 >> 기간: _2020.10.12 ~ 2020.11.30_  
->> _2020.12.22_    _<MJC+ 학습동아리>_ **대상** 수상
+>> _2020.12.22_    _<MJC+ 학습동아리>_ [**대상**](https://github.com/hhyewon/Flutter_EveryThingJeon_Project/files/6873480/MJC%2B.pdf) 수상
 
 
 ## Goal
