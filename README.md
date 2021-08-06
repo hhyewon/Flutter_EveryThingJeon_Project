@@ -27,6 +27,7 @@
 | 팀원 | 앱 기획 및 개발 | [이보라](https://github.com/aroob6) | 
 
 # 📌 APP 전체 Wireframe
+![image01](https://user-images.githubusercontent.com/73240332/128563564-20f6c426-f135-444e-afa3-65a1f865cb50.png)
 
 # 📌 scenario
 > **로그인**
@@ -67,7 +68,8 @@
  
  
 > _시나리오에 따른 시안 변천사 과정 (공지사항)_
-![image](https://user-images.githubusercontent.com/73240332/126889981-bfe3678a-8e1a-4fdd-bf89-2fb43c0d5f2e.png)
+![캡처](https://user-images.githubusercontent.com/73240332/128563469-5f900a97-1b66-4299-83a1-aa18d7a83ceb.PNG)
+
 
 # 📌 Stack
 
